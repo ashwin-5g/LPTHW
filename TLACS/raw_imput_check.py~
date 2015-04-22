@@ -1,0 +1,4 @@
+x = raw_input("Type in the co-ordiantes: ") 
+y = 0
+print x
+print y
